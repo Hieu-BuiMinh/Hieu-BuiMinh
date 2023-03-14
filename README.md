@@ -8,7 +8,7 @@
 📫 Contact me via: [Facebook](https://www.facebook.com/hieu.buiminh.37)
 ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cowabunga888&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cowabunga888&show_icons=true&bg_color=00000000&theme=radical)
 
 ### Skills 🥊
 
