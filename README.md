@@ -39,7 +39,7 @@
   <img src="https://profile-counter.glitch.me/Cowabung/count.svg?"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Cowabunga888/Cowabunga888/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cowabunga888/blob/output/snake.svg" alt="Snake animation" />
 
 <!--
 **Cowabunga888/Cowabunga888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
