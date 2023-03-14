@@ -1,4 +1,10 @@
-# 💫 About Me:
+### Hello there 👋
+
+<div align="center">
+  <img align="right" height="250" src="https://static-images.vnncdn.net/files/publish/doctor-strange-2-lap-ky-luc-doanh-thu-tai-viet-nam-sau-1-ngay-ra-rap-7c61b24482b34c09bb5370027317050b.gif"/>
+</div>
+
+# About me 🔮:
 👋 Hello, I'm Hieu, you can also call me Walter..<br>👀 I am interested in Web knowledge<br>🌱 I am currently studying at university of economic and technology<br>🐱‍👓 I am looking to collaborate on Github<br>📫 Contact me via: [Facebook](https://www.facebook.com/hieu.buiminh.37)<br>⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
 
 
