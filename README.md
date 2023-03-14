@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cowabunga888&show_icons=true&bg_color=00000000&theme=radical)
 
 ### Skills 🥊
-<img align="right" height="150" src="https://static-images.vnncdn.net/files/publish/doctor-strange-2-lap-ky-luc-doanh-thu-tai-viet-nam-sau-1-ngay-ra-rap-7c61b24482b34c09bb5370027317050b.gif"/>
+<img align="right" height="250" src="https://static-images.vnncdn.net/files/publish/doctor-strange-2-lap-ky-luc-doanh-thu-tai-viet-nam-sau-1-ngay-ra-rap-7c61b24482b34c09bb5370027317050b.gif"/>
 
 ###
 
@@ -34,6 +34,12 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Cowabung/count.svg?"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/Cowabung/Cowabung/blob/output/snake.svg" alt="Snake animation" />
 
 <!--
 **Cowabunga888/Cowabunga888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
