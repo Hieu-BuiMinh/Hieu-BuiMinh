@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cowabunga888&show_icons=true&bg_color=00000000&theme=radical)
 
 ### Skills 🥊
-<img align="right" height="150" src="https://static-images.vnncdn.net/files/publish/doctor-strange-2-lap-ky-luc-doanh-thu-tai-viet-nam-sau-1-ngay-ra-rap-7c61b24482b34c09bb5370027317050b.gif"  />
+<img align="right" height="150" src="https://static-images.vnncdn.net/files/publish/doctor-strange-2-lap-ky-luc-doanh-thu-tai-viet-nam-sau-1-ngay-ra-rap-7c61b24482b34c09bb5370027317050b.gif"/>
 
 ###
 
