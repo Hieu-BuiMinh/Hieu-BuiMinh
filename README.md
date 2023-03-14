@@ -4,7 +4,8 @@
 
 # About me 🔮:
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
-👋 Hello, I'm Hieu, you can also call me Walter..<br>👀 I am interested in Web knowledge<br>
+👋 Hello, I'm Hieu, you can also call me Walter..<br>
+👀 I am interested in Web knowledge<br>
 🌱 I am currently studying at university of economic and technology<br>
 🐱‍👓 I am looking to collaborate on Github<br>
 📫 Contact me via: [Facebook](https://www.facebook.com/hieu.buiminh.37)<br>
