@@ -20,7 +20,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" width="150" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d0257a7-3486-47d1-9695-64179c3f1d58/dcynehy-e83e0655-6b56-40b3-8720-5dac5d35ff47.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkMDI1N2E3LTM0ODYtNDdkMS05Njk1LTY0MTc5YzNmMWQ1OFwvZGN5bmVoeS1lODNlMDY1NS02YjU2LTQwYjMtODcyMC01ZGFjNWQzNWZmNDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.etw2OgGlWdBcmwQW8-WsipHomCVGWawK-i9sIOs3xtk"></a>
+<img align="right" width="150" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d0257a7-3486-47d1-9695-64179c3f1d58/dcynehy-e83e0655-6b56-40b3-8720-5dac5d35ff47.gif"></a>
 # Some Fun Facts about me 🤡
 I've founded a few companies in the past :zap: I love playing video games. We also do live coding on FB! I'm super into sports, including lots of outdoor adventures like running and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my FB chat during a live stream. Or DM me on Instagram or Twitter.
 
