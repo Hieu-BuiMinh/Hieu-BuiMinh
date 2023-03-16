@@ -44,6 +44,7 @@ I've founded a few companies in the past :zap: I love playing video games. We al
   </div>
 </div>
 
+![mishmanners snake gif](https://github.com/Cowabunga888/Cowabunga888/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
