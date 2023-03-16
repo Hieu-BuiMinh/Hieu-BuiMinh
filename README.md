@@ -33,7 +33,7 @@
   </div>
 </div>
 
-### inspirational quotes 🖋
+### Inspirational quotes 🖋
 <div align="center">
   <div style="display: flex;">
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
