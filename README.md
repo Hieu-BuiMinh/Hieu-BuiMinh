@@ -20,6 +20,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
 
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 # Some Fun Facts about me 🤡
 I've founded a few companies in the past :zap: I love playing video games. We also do live coding on FB! I'm super into sports, including lots of outdoor adventures like running and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my FB chat during a live stream. Or DM me on Instagram or Twitter.
 
