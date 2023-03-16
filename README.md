@@ -2,7 +2,7 @@
 
 <div align='center'><img src="https://i.postimg.cc/nnMr1ydF/My-CV.png"/></div>
 
-# About me 🔮:
+# About me 🔮
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
 👋 Hello, I'm Hieu, you can also call me Walter..<br>
 👀 I am interested in Web knowledge<br>
@@ -33,7 +33,7 @@
   </div>
 </div>
 
-### Inspirational quotes 🖋
+# Inspirational quotes 🖋
 <div align="center">
   <div style="display: flex;">
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
