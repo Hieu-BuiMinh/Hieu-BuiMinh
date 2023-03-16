@@ -20,6 +20,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
 
+# Some Fun Facts about me 🤡
+I've founded a few companies in the past :zap: I love playing video games. We also do live coding on FB! I'm super into sports, including lots of outdoor adventures like running and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my FB chat during a live stream. Or DM me on Instagram or Twitter.
+
 # GitHub 📌
 <!-- ![](https://github-readme-stats.vercel.app/api?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cowabunga888&theme=tokyonight&hide_border=false)<br/>
