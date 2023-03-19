@@ -20,9 +20,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
-# Some Fun Facts about me 🤡
-I've founded a few companies in the past :zap: I love playing video games. We also do live coding on FB! I'm super into sports, including lots of outdoor adventures like running and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my FB chat during a live stream. Or DM me on Instagram or Twitter.
+# Get to know more about me 🤡
+<img align="right" height="250" src="https://s2.gifyu.com/images/duck.gif"/>
+
+<p> As a concurrent student of two schools: VietnamAustralia Vocational Education School - FastTrack Programmer training program and University of Economics Ho Chi Minh city in the Faculty of Business Information Technology. With the desire to become a Front-end developer by becoming a fulltime fresher to cultivate more professional and practical knowledge.</p></br>
+<p>Reading books and keeping pets are my daily hobbies. Besides, learning some new coding languages and new technologies is my passion, this is the reason and also the motivation for me to aspire to become a Website developer, specifically Front-end developer.</p>
+
 
 # GitHub 📌
 <!-- ![](https://github-readme-stats.vercel.app/api?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
