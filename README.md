@@ -26,6 +26,8 @@
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Material Design](https://img.shields.io/badge/MUI-071b2f.svg?style=for-the-badge&logo=Material%20Design&logoColor=ffffff&labelColor=007fff)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
 
 [![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
 
