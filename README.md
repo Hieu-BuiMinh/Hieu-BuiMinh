@@ -58,7 +58,8 @@
   </div>
 </div>
 
-![mishmanners snake gif](https://github.com/cowabunga888/Cowabunga888/blob/output/github-contribution-grid-snake.svg)
+### Watch my contribution graph get eaten by the snake 🐍
+![](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
