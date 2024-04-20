@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<div align='center'><img src="https://i.postimg.cc/nnMr1ydF/My-CV.png"/></div>
+<div align='center'><img src="https://i.postimg.cc/N0Zh3FGT/Frame-27.png"/></div>
 
 # About me 🔮
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
