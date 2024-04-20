@@ -29,7 +29,7 @@
 ![Material Design](https://img.shields.io/badge/MUI-071b2f.svg?style=for-the-badge&logo=Material%20Design&logoColor=ffffff&labelColor=007fff)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
 
-[![](https://visitcount.itsvg.in/api?id=cowabunga888&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hieu-BuiMinh&icon=7&color=0)](https://visitcount.itsvg.in)
 
 # Get to know more about me 🤡
 <img align="right" height="250" src="https://s2.gifyu.com/images/duck.gif"/>
@@ -39,15 +39,15 @@
 
 
 # GitHub 📌
-<!-- ![](https://github-readme-stats.vercel.app/api?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cowabunga888&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cowabunga888&theme=tokyonight&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowabunga888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </div>
 </div>
 
