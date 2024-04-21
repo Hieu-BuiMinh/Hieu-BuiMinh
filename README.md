@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
 👋 Hello, I'm Hieu, you can also call me Walter..<br>
 👀 I am interested in Web knowledge<br>
-🌱 I am currently studying at university of economic and technology<br>
+🌱 I am currently studying at the University of Economics and Technology <br>
 🐱‍👓 I am looking to collaborate on Github<br>
 📫 Contact me via [Facebook](https://www.facebook.com/hieu.buiminh.37)<br>
 ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
@@ -34,8 +34,8 @@
 # Get to know more about me 🤡
 <img align="right" height="250" src="https://s2.gifyu.com/images/duck.gif"/>
 
-<p> As a concurrent student of two schools: VietnamAustralia Vocational Education School - FastTrack Programmer training program and University of Economics Ho Chi Minh city in the Faculty of Business Information Technology. With the desire to become a Front-end developer by becoming a fulltime fresher to cultivate more professional and practical knowledge.</p></br>
-<p>Reading books and keeping pets are my daily hobbies. Besides, learning some new coding languages and new technologies is my passion, this is the reason and also the motivation for me to aspire to become a Website developer, specifically Front-end developer.</p>
+<p> As a concurrent student of two schools: VietnamAustralia Vocational Education School - FastTrack Programmer training program and the University of Economics Ho Chi Minh City in the Faculty of Business Information Technology. With the desire to become a Front-end developer by becoming a full-time fresher to cultivate more professional and practical knowledge.</p></br>
+<p>Reading books and keeping pets are my daily hobbies. Besides, learning some new coding languages and new technologies is my passion, this is the reason and motivation for me to aspire to become a Website developer, specifically a Front-end developer.</p>
 
 
 # GitHub 📌
