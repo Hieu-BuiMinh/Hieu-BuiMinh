@@ -17,12 +17,11 @@
 
 # Skills 🥊
 <div align="center">
-<img align="center" height="70" src="https://s10.gifyu.com/images/AA_Bugcat_Wiggle61094102e3eba97663.gif"/>
-<img align="center" height="70" src="https://s10.gifyu.com/images/bugcat_hyper898dfe0819b6d7de9c.gif"/>
-<img align="center" height="70" src="https://s10.gifyu.com/images/0j2_capoo_king91959da4846a642c.gif"/>
-<img align="center" height="70" src="https://s10.gifyu.com/images/BugCatEly69490632a04b288e.gif"/>
-<img align="center" height="70" src="https://s10.gifyu.com/images/rainbowcatdancinb9bf516169e56640.gif"/>
-<img align="center" height="70" src="https://s11.gifyu.com/images/richcapoof5a6b26153abb594.gif"/>
+<img align="center" height="70" src="https://i.postimg.cc/CRJL1DKh/01.gif"/>
+<img align="center" height="70" src="https://i.postimg.cc/68Bptztb/02.gif"/>
+<img align="center" height="70" src="https://i.postimg.cc/yJd6SdJF/03.gif"/>
+<img align="center" height="70" src="https://i.postimg.cc/GHFmW6ws/04.gif"/>
+<img align="center" height="70" src="https://i.postimg.cc/GB5LPCY6/05.gif"/>
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
