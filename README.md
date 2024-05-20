@@ -8,7 +8,7 @@
 👀 I am interested in Web knowledge<br>
 🌱 I am currently studying at the University of Economics and Technology <br>
 🐱‍👓 I am looking to collaborate on Github<br>
-📫 Contact me via [Facebook](https://www.facebook.com/hieu.buiminh.37)<br>
+📫 Contact me via my email (minhhieu2122000@gmail.com)<br>
 ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
   
 
