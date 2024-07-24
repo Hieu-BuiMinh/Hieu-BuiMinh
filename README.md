@@ -47,8 +47,9 @@
 # Get to know more about me 🤡
 <img align="right" height="250" src="https://s2.gifyu.com/images/duck.gif"/>
 
-<p> As a concurrent student of two schools: VietnamAustralia Vocational Education School - FastTrack Programmer training program and the University of Economics Ho Chi Minh City in the Faculty of Business Information Technology. With the desire to become a Front-end developer by becoming a full-time fresher to cultivate more professional and practical knowledge.</p></br>
-<p>Reading books and keeping pets are my daily hobbies. Besides, learning some new coding languages and new technologies is my passion, this is the reason and motivation for me to aspire to become a Website developer, specifically a Front-end developer.</p>
+<p>I am currently pursuing concurrent studies at two esteemed institutions: the Vietnam-Australia Vocational Education School, where I am enrolled in the FastTrack Programmer training program, and the University of Economics Ho Chi Minh City, majoring in Business Information Technology. My academic journey is driven by a strong desire to excel as a Front-end developer, building on a foundation of robust theoretical and practical knowledge.</p></br>
+<p>My daily routine is enriched by my hobbies of reading books and keeping pets, which provide a balanced and fulfilling lifestyle. Additionally, my passion for learning new coding languages and exploring emerging technologies fuels my aspiration to become a proficient Website developer, with a particular focus on Front-end development.</p></br>
+<p>With my solid educational background and continuous learning mindset, I am prepared to contribute effectively to any development team, bringing innovative solutions and a keen eye for detail to the world of web development.</p></br>
 
 
 # GitHub 📌
