@@ -73,7 +73,7 @@
 </div>
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/output/github-contribution-grid-snake2.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
