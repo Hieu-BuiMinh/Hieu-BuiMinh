@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<div align='center'><img src="https://i.postimg.cc/1sN706TW/Frame-27.png"/></div>
+<div align='center'><img src="https://i.postimg.cc/3KqGvzkZ/Frame-27.png"/></div>
 
 # About me 🔮
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
@@ -63,26 +63,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </div>
-</div>
-
-# Inspirational quotes 🖋
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
-  </div>
-</div>
-
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
 </div>
 ---
 
