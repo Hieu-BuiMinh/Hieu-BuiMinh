@@ -4,15 +4,16 @@
 
 # About me 🔮
 <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/>
-👋 Hello, I'm Hieu, you can also call me Warlock..<br>
+👋 Hello, I'm Hieu, you can also call me Walter<br>
 👀 I am interested in Web knowledge<br>
 🌱 I am currently studying at the University of Economics and Technology <br>
-🐱‍👓 I am looking to collaborate on Github<br>
+🛸 I am looking to collaborate on Github<br>
 📫 Contact me via my email (minhhieu2122000@gmail.com)<br>
 ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
 
 
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieu.buiminh.37)
 
 # Skills 🥊
