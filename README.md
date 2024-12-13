@@ -61,13 +61,14 @@ Outside of my professional and academic commitments, I maintain a balanced lifes
 
 With a strong foundation in both education and real-world experience, I am well-equipped to make valuable contributions to any development team, bringing innovative solutions and a keen attention to detail in the realm of Front-End Development.
 
-<div style="display: grid; grid-template-columns: auto auto auto; gap: 10px">
-<img height="100%" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieu-BuiMinh&theme=xcode&hide_border=true" />
 
-<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
 
 
 ---
