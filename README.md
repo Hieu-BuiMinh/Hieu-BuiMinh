@@ -10,10 +10,10 @@
 🐱‍👓 I am looking to collaborate on Github<br>
 📫 Contact me via my email (minhhieu2122000@gmail.com)<br>
 ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
-  
 
-<!-- ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieu.buiminh.37) -->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieu.buiminh.37)
 
 # Skills 🥊
 <div align="center">
@@ -51,19 +51,23 @@
 [![](https://visitcount.itsvg.in/api?id=Hieu-BuiMinh&icon=7&color=0)](https://visitcount.itsvg.in)
 
 # Get to know more about me 🎱
-<img align="right" height="250" src="https://s2.gifyu.com/images/duck.gif"/>
 
-<p>I am currently pursuing concurrent studies at two esteemed institutions: the Vietnam-Australia Vocational Education School, where I am enrolled in the FastTrack Programmer training program, and the University of Economics Ho Chi Minh City, majoring in Business Information Technology. My academic journey is driven by a strong desire to excel as a Front-end developer, building on a foundation of robust theoretical and practical knowledge.</p></br>
-<p>My daily routine is enriched by my hobbies of reading books and keeping pets, which provide a balanced and fulfilling lifestyle. Additionally, my passion for learning new coding languages and exploring emerging technologies fuels my aspiration to become a proficient Website developer, with a particular focus on Front-end development.</p></br>
-<p>With my solid educational background and continuous learning mindset, I am prepared to contribute effectively to any development team, bringing innovative solutions and a keen eye for detail to the world of web development.</p></br>
+I am a graduate of the University of Economics Ho Chi Minh City, where I specialized in Business Information Technology. My career aspirations are focused on becoming a skilled Front-End Developer, where I can combine both my academic background and practical experience to deliver high-quality web solutions.
 
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </div>
+Over the past two years, I have gained hands-on experience in web development, which has allowed me to refine my technical skills and contribute to impactful projects. This experience, coupled with my commitment to continuous learning, positions me to stay at the forefront of emerging technologies and best practices in the industry.
+
+Outside of my professional and academic commitments, I maintain a balanced lifestyle through hobbies such as reading and caring for pets. These activities offer relaxation and inspiration, further fueling my passion for self-improvement.
+
+With a strong foundation in both education and real-world experience, I am well-equipped to make valuable contributions to any development team, bringing innovative solutions and a keen attention to detail in the realm of Front-End Development.
+
+<div style="display: grid; grid-template-columns: auto auto auto; gap: 10px">
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
+
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
+
 
 ---
 
