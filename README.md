@@ -14,13 +14,9 @@
 
 ## 🌐 Socials:
 
-<div align="center">
+[![Personal Website](https://img.shields.io/badge/PersonalWebsite-FF1B2D?style=for-the-badge&logo=awesomelists&logoColor=white)](https://hieu-buiminh.io.vn/)
 
-[![Personal Website](https://img.shields.io/badge/PersonalWebsite-FF1B2D?logo=githubcopilot&logoColor=white)](https://hieu-buiminh.io.vn/)
-
-[![Resume Website](https://img.shields.io/badge/ResumeWebsite-6d4aff?logo=readme&logoColor=fff)](https://hieu-buiminh-resume.io.vn/)
-
-</div>
+[![Resume Website](https://img.shields.io/badge/ResumeWebsite-6d4aff?style=for-the-badge&logo=readme&logoColor=white)](https://hieu-buiminh-resume.io.vn/)
 
 # Skills 🥊
 <div align="center">
