@@ -82,4 +82,3 @@ With a strong foundation in both education and real-world experience, I am well-
 ---
 
 <p align="center">Made with ❤️ in Vietnam</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
