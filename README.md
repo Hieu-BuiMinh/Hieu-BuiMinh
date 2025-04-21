@@ -61,14 +61,13 @@
 
 # Get to know more about me 🎱
 
-I am a graduate of the University of Economics Ho Chi Minh City, where I specialized in Business Information Technology. My career aspirations are focused on becoming a skilled Front-End Developer, where I can combine both my academic background and practical experience to deliver high-quality web solutions.
+I am a graduate of the University of Economics Ho Chi Minh City, majoring in Business Information Technology.
 
-Over the past two years, I have gained hands-on experience in web development, which has allowed me to refine my technical skills and contribute to impactful projects. This experience, coupled with my commitment to continuous learning, positions me to stay at the forefront of emerging technologies and best practices in the industry.
+With over 4 years of practical experience, I have developed strong expertise in modern web development using React.js, Next.js, Monorepo architectures, TanStack Query, TailwindCSS, Zustand, Shadcn UI, and Mantine. I focus on delivering high-quality, scalable, and maintainable front-end solutions, combining technical excellence with a strong understanding of user experience and performance optimization.
 
-Outside of my professional and academic commitments, I maintain a balanced lifestyle through hobbies such as reading and caring for pets. These activities offer relaxation and inspiration, further fueling my passion for self-improvement.
+I am committed to continuous learning and staying at the forefront of emerging technologies and best practices. My approach emphasizes clean architecture, reusability, and efficiency, enabling me to make a meaningful impact in fast-paced, high-standard development environments.
 
-With a strong foundation in both education and real-world experience, I am well-equipped to make valuable contributions to any development team, bringing innovative solutions and a keen attention to detail in the realm of Front-End Development.
-
+With a solid academic background and extensive hands-on project experience, I am ready to contribute innovative, reliable, and forward-thinking solutions to any development team.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieu-BuiMinh&theme=xcode&hide_border=true" />
 
