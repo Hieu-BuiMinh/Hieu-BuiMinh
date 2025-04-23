@@ -79,5 +79,4 @@ With a solid academic background and extensive hands-on project experience, I am
 
 ---
 
-
 <p align="center">Made with ❤️ in Vietnam</p>
