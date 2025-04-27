@@ -1,43 +1,40 @@
+<div align="center">
+
+### A self-taught Front-End Engineer in Vietnam 🔥
+
+</div>
+
 <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>
 
-# About me 🔮
+## 🔮 About me 
 <!-- <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/> -->
 
 <table>
 <tr>
   <td width="40%">
       <img
-      src="https://i.imgur.com/ArKmHfl.png"
+      src="https://i.imgur.com/DSW7JqA.png"
       width="400"
-      alt="Alice"
-      style="
-      border-radius: 15px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      object-fit: cover;
-      "
+      alt="Stephen.K"
+      style="object-fit: cover;"
       />
 </td>
 <td width="60%">
 
-  
-👋 Hi, I'm Hieu, also known as Stephen.
+- 👋 Hi, I'm Hieu, also known as Stephen.
+- 👨‍💻 A passionate front-end developer with over 4 years of experience.
+- 💡 Always learning new technologies.
+- 🌱 I’m eager to collaborate on projects, especially on GitHub.
+- 📩 Feel free to reach out via email: [minhhieu2122000@gmail.com](minhhieu2122000@gmail.com)
+- 🎓 I graduated from the University of Economics Ho Chi Minh City.
+- ⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups 🥴
 
-👨‍💻 A passionate front-end developer with over 4 years of experience.
-
-🎓 I graduated from the University of Economics Ho Chi Minh City.
-
-🌱 I’m eager to collaborate on projects, especially on GitHub.
-
-📩 Feel free to reach out via email: [minhhieu2122000@gmail.com](minhhieu2122000@gmail.com)
-
-⚡ Fun fact about me: Don't ask me to have spicy food, I'll get hiccups...
-  
 </td>
 </tr>
 </table>
 
 
-## Socials 🌐
+## 🌐 Socials
 <div align="center">
 
 [![Personal Website](https://img.shields.io/badge/PersonalWebsite-FF1B2D?style=for-the-badge&logo=awesomelists&logoColor=white)](https://hieu-buiminh.io.vn/)
@@ -45,7 +42,7 @@
 
 </div>
 
-# Technology Stack 🛠️
+## 🛠️ Technology Stack
 
 <div align="center">
 <img align="center" height="70" src="https://i.postimg.cc/CRJL1DKh/01.gif"/>
@@ -55,7 +52,7 @@
 <img align="center" height="70" src="https://i.postimg.cc/GB5LPCY6/05.gif"/>
 </div>
 
-## Libraries/Frameworks:
+### Libraries/Frameworks:
 
 <div align="center">
 
@@ -71,7 +68,7 @@
 
 </div>
 
-## UI Libraries:
+### UI Libraries:
 
 <div align="center">
 
@@ -82,7 +79,7 @@
 ![Tailwind](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
 </div>
 
-## Others:
+### Others:
 
 <div align="center">
 
@@ -94,7 +91,7 @@
 </div>
 
 
-# Get to know more about me 🎱
+## 🎱 Get to know more about me
 
 - 🎓 Graduate of University of Economics Ho Chi Minh City
 - 📚 Major: Business Information Technology
@@ -107,32 +104,40 @@
 - 💡 Ready to contribute innovative, reliable, and forward-thinking solutions to any development team!
 
 ## 💻 Technical Expertise
-- 🎯 **Backend**: Scalable microservices with NestJS & Kafka
-- 🎨 **Frontend**: Responsive web applications with Next.js
-- 📱 **Mobile**: Cross-platform development with Flutter & Dart
-- 📊 **Blockchain**: Smart contracts with Solidity & Web3
-- 🔗 **DevOps**: Containerization with Docker & Kubernetes
+
+- 🎯 **Backend**: Building scalable APIs with NestJS, Prisma, and MongoDB.
+- 🎨 **Frontend**: Responsive web applications with the React ecosystem and Next.js
 
 ## 🚀 Current Projects
-- 💰 Leading development of Uniko Financial Platform
-- 🎓 Contributing to CVS Duy Tan University's research projects
-- 🌐 Developing cross-platform mobile applications
-- 🔗 Exploring blockchain innovations
+
+- 📝 Building a blog platform
+- 💬 Developing a real-time chat application
+- 📚 Creating a Notion clone for team collaboration
 
 ## 🎯 What's Next?
-- 📚 Expanding Uniko's feature set
-- 🔍 Research in AI-driven financial solutions
-- 🌟 Building more cross-platform applications
+- 📝 Updating the blog to version 2 [current verion](https://hieu-buiminh.io.vn/)
+- 📖 Learning NestJS for backend development [nest-js](https://nestjs.com/)
+- 🏗️ Exploring Mono Repo for frontend development [turpo-repo](https://turborepo.com/docs)
 - 🤝 Mentoring next-generation developers
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieu-BuiMinh&theme=xcode&hide_border=true" />
+<br>
+<br>
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+---
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieu-BuiMinh&theme=github-compact&hide_border=true" />
+  
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
+  
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  
+  <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=transparent&hide_border=false"/>
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
-<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=tokyonight&hide_border=false"/>
+</div>
 
 ---
 
 <p align="center">Made with ❤️ in Vietnam</p>
+<p align="right">Last updated: 27/04/2025</p>
+
