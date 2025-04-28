@@ -124,15 +124,20 @@
 <br>
 
 ---
+
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieu-BuiMinh&theme=github-compact&hide_border=true" />
+
   
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hieu-BuiMinh&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hieu-BuiMinh&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hieu-BuiMinh&theme=dracula)|
+|-----|------|------|
+  
+  <!--
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Hieu-BuiMinh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
-  
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-BuiMinh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hieu-BuiMinh&theme=transparent&hide_border=false"/>
+  -->
 
 </div>
 
