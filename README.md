@@ -21,7 +21,7 @@
 </td>
 <td width="60%">
 
-- 👋 Hi, I'm Hieu, also known as Stephen.
+- 👋 Hi, I'm Hieu, also known as <ins>**Stephen**</ins>.
 - 👨‍💻 A passionate front-end developer with over 4 years of experience.
 - 💡 Always learning new technologies.
 - 🌱 I’m eager to collaborate on projects, especially on GitHub.
