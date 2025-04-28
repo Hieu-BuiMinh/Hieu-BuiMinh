@@ -4,7 +4,8 @@
 
 </div>
 
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>
+<!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
+<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745827167/Frame_79_1_umec1b.png"/></div>
 
 ## 🔮 About me 
 <!-- <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/> -->
