@@ -5,22 +5,24 @@
 </div>
 
 <!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div>
+<!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
+<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747471358/Frame_93_lcmuki.png"/></div>
 
-## 🔮 About me 
+### 🔮 About me
+
 <!-- <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/> -->
 
-<table>
+<table style="border: none !important;">
 <tr>
-  <td width="40%">
-      <img
-      src="https://i.imgur.com/DSW7JqA.png"
-      width="400"
-      alt="Stephen.K"
-      style="object-fit: cover;"
-      />
+  <td width="25%">
+    <img
+      src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747470135/cat_ijm2lm.png"
+      width="100%"
+      alt="cat"
+      style="object-fit: cover; transform: rotate(45deg);"
+    />
 </td>
-<td width="60%">
+<td width="75%">
 
 - 👋 Hi, I'm Hieu, also known as <ins>**Stephen**</ins>.
 - 👨‍💻 A passionate front-end developer with over 4 years of experience.
@@ -34,8 +36,7 @@
 </tr>
 </table>
 
-
-## 🌐 Socials
+### 🌐 Socials
 <div align="center">
 
 [![Personal Website](https://img.shields.io/badge/PersonalWebsite-FF1B2D?style=for-the-badge&logo=awesomelists&logoColor=white)](https://hieu-buiminh.io.vn/)
@@ -43,7 +44,7 @@
 
 </div>
 
-## 🛠️ Technology Stack
+### 🛠️ Technology Stack
 
 <div align="center">
 <img align="center" height="70" src="https://i.postimg.cc/CRJL1DKh/01.gif"/>
@@ -53,7 +54,7 @@
 <img align="center" height="70" src="https://i.postimg.cc/GB5LPCY6/05.gif"/>
 </div>
 
-### Libraries/Frameworks:
+#### Libraries/Frameworks:
 
 <div align="center">
 
@@ -69,7 +70,7 @@
 
 </div>
 
-### UI Libraries:
+#### UI Libraries:
 
 <div align="center">
 
@@ -80,7 +81,7 @@
 ![Tailwind](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
 </div>
 
-### Others:
+#### Others:
 
 <div align="center">
 
@@ -92,7 +93,7 @@
 </div>
 
 
-## 🎱 Get to know more about me
+### 🎱 Get to know more about me
 
 - 🎓 Graduate of University of Economics Ho Chi Minh City
 - 📚 Major: Business Information Technology
@@ -104,18 +105,18 @@
 - 🧩 Approach: Clean architecture, reusability, and efficiency
 - 💡 Ready to contribute innovative, reliable, and forward-thinking solutions to any development team!
 
-## 💻 Technical Expertise
+### 💻 Technical Expertise
 
 - 🎯 **Backend**: Building scalable APIs with NestJS, Prisma, and MongoDB.
 - 🎨 **Frontend**: Responsive web applications with the React ecosystem and Next.js
 
-## 🚀 Current Projects
+### 🚀 Current Projects
 
 - 📝 Building a blog platform
 - 💬 Developing a real-time chat application
 - 📚 Creating a Notion clone for team collaboration
 
-## 🎯 What's Next?
+### 🎯 What's Next?
 - 📝 Updating the blog to version 2 [current verion](https://hieu-buiminh.io.vn/)
 - 📖 Learning NestJS for backend development [nest-js](https://nestjs.com/)
 - 🏗️ Exploring Mono Repo for frontend development [turpo-repo](https://turborepo.com/docs)
