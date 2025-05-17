@@ -1,12 +1,12 @@
+<!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
+<!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
+<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747471358/Frame_93_lcmuki.png"/></div>
+
 <div align="center">
 
 ### A self-taught Front-End Engineer in Vietnam 🔥
 
 </div>
-
-<!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
-<!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747471358/Frame_93_lcmuki.png"/></div>
 
 ### 🔮 About me
 
