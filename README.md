@@ -1,6 +1,10 @@
 <!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
 <!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548479/Frame_93_rzkp9n.png"/></div>
+<a href="https://hieu-buiminh.io.vn/" target="_blank" rel="me">
+  <div align="center">
+    <img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548479/Frame_93_rzkp9n.png" />
+  </div>
+</a>
 
 <div align="center">
 
@@ -12,7 +16,7 @@
 
 <table style="border: none !important;">
 <tr>
-  <td width="25%">
+  <td width="35%">
     <img
       src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747550223/Group_42_1_o5wvbw.png"
       width="100%"
@@ -20,9 +24,9 @@
       style="object-fit: cover; transform: rotate(45deg);"
     />
 </td>
-<td width="75%">
+<td width="65%">
 
-- 👋 Hi, I'm Hieu, also known as <ins>**Stephen**</ins>.
+- 👋 Hi, I'm Hieu, also known as **[Stephen](https://hieu-buiminh.io.vn/)**.
 - 👨‍💻 A passionate front-end developer with over 4 years of experience.
 - 💡 Always learning new technologies.
 - 🌱 I’m eager to collaborate on projects, especially on GitHub.
@@ -34,7 +38,9 @@
 </tr>
 </table>
 
+
 ### 🌐 Socials
+
 <div align="center">
 
 [![Personal Website](https://img.shields.io/badge/PersonalWebsite-FF1B2D?style=for-the-badge&logo=awesomelists&logoColor=white)](https://hieu-buiminh.io.vn/)
