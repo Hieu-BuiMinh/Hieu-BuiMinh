@@ -1,10 +1,8 @@
 <!--<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1744691061/github-wall_nwpnm7.svg"/></div>-->
 <!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747471358/Frame_93_lcmuki.png"/></div>
+<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548479/Frame_93_rzkp9n.png"/></div>
 
 <div align="center">
-
-### A self-taught Front-End Engineer in Vietnam 🔥
 
 </div>
 
@@ -16,7 +14,7 @@
 <tr>
   <td width="25%">
     <img
-      src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747470135/cat_ijm2lm.png"
+      src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747550223/Group_42_1_o5wvbw.png"
       width="100%"
       alt="cat"
       style="object-fit: cover; transform: rotate(45deg);"
@@ -143,7 +141,8 @@
 
 </div>
 
----
-
 <p align="center">Made with ❤️ in Vietnam</p>
-<p align="right">Last updated: 27/04/2025</p>
+
+<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548381/Frame_95_uxphsa.png"/></div>
+
+<p align="right">Last updated: 18/05/2025</p>
