@@ -126,6 +126,16 @@
 - 🏗️ Exploring Mono Repo for frontend development [turpo-repo](https://turborepo.com/docs)
 - 🤝 Mentoring next-generation developers
 
+### 📫 Let's Connect!
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](minhhieu2122000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hieu-BuiMinh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephen.02.12/)
+
+</div>
+
 <br>
 <br>
 
