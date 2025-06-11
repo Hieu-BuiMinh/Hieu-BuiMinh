@@ -14,7 +14,7 @@
 
 <!-- <img align="right" width="300" src="https://64.media.tumblr.com/0ef33bc5da2302250e8e957b5d82b1dd/dd627f1450762e3c-62/s640x960/a8b1ac295bc748f3541f0aed7a5a85a365794bd2.gif"/> -->
 
-<table style="border: none !important;">
+<table>
 <tr>
   <td width="35%">
     <img
@@ -62,6 +62,21 @@
 
 <div align="center">
 
+<table>
+  <tr>
+    <td><img src="https://www.svgrepo.com/show/354259/react.svg" title="React" alt="React" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/6cHPrv8q/Nextjs.png" title="Next.js" alt="Next.js" width="40" height="40"/></td>
+    <td><img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Tailwind" alt="Tailwind" width="40" height="40" /></td>
+    <td><img src="https://i.ibb.co/DPcLBmxx/Tanstack.png" title="TanStack" alt="TanStack" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/VpMHGcXv/Zustand.png" title="Zustand" alt="Zustand" width="40" height="40"/></td>
+    <td><img src="https://www.svgrepo.com/show/452093/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" title="Nodejs" alt="Nodejs" width="40" height="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/349540/typescript.svg" title="TS" alt="TS" width="40" height="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/349419/javascript.svg" title="JS" alt="JS" width="40" height="40" /></td>
+  </tr>
+</table>
+
+<!--
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <img alt='tailwindcss' src='https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000&color=06B6D4'/>
@@ -71,6 +86,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+-->
 
 </div>
 
@@ -78,21 +94,43 @@
 
 <div align="center">
 
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/0jRPRP4c/Mantine.png" title="Mantine" alt="Mantine" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/R4BY9gCX/Shadcn.png" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/Psk3Q9Qs/MUI.png" title="MUI" alt="MUI" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/vvTpTP1f/Antdesign.png" title="Ant Design" alt="Ant Design" width="40" height="40"/></td>
+  </tr>
+</table>
+
+
+<!--
 ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
 ![Shadcn-UI](https://img.shields.io/badge/Shadcn-ui?style=for-the-badge&logo=shadcn%2Fui&labelColor=%23000000&color=%23ffffff)
 ![Material Design](https://img.shields.io/badge/MUI-071b2f.svg?style=for-the-badge&logo=Material%20Design&logoColor=ffffff&labelColor=007fff)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
-![Tailwind](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
+-->
+
 </div>
 
 #### Others:
 
 <div align="center">
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/HDJ58FPj/Vercel.png" title="Vercel" alt="Vercel" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/cdrz5fv/Vite.png" title="Vite" alt="Vite" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/TD8TkZR0/Figma.png" title="Figma" alt="Figma" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/BHBTWnHy/Postman.png" title="Postman" alt="Postman" width="40" height="40"/></td>
+  </tr>
+</table>
 
+<!--
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+-->
 
 </div>
 
