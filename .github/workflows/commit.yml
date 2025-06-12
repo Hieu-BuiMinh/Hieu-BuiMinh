@@ -3,7 +3,7 @@ name: My Daily Commit
 on:
   schedule:
     # - cron: '0 6 * * *'  # This runs the workflow every day at 6 AM.
-    - cron: '*/1 * * * *'  # Run every minute
+    - cron: '*/5 * * * *'  # Run every 5 minute
   workflow_dispatch:
 
 jobs:
