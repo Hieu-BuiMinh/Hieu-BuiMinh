@@ -4,6 +4,7 @@ on:
   schedule:
     # - cron: '0 6 * * *'  # This runs the workflow every day at 6 AM.
     - cron: '*/1 * * * *'  # Run every minute
+  workflow_dispatch:
 
 jobs:
   commit:
