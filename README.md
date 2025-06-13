@@ -71,6 +71,8 @@
     <td><img src="https://i.ibb.co/VpMHGcXv/Zustand.png" title="Zustand" alt="Zustand" width="40" height="40"/></td>
     <td><img src="https://www.svgrepo.com/show/452093/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
     <td><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" title="Nodejs" alt="Nodejs" width="40" height="40" /></td>
+  </tr>
+  <tr>
     <td><img src="https://www.svgrepo.com/show/349540/typescript.svg" title="TS" alt="TS" width="40" height="40" /></td>
     <td><img src="https://www.svgrepo.com/show/349419/javascript.svg" title="JS" alt="JS" width="40" height="40" /></td>
   </tr>
@@ -98,8 +100,8 @@
   <tr>
     <td><img src="https://i.ibb.co/0jRPRP4c/Mantine.png" title="Mantine" alt="Mantine" width="40" height="40"/></td>
     <td><img src="https://i.ibb.co/R4BY9gCX/Shadcn.png" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/Psk3Q9Qs/MUI.png" title="MUI" alt="MUI" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/vvTpTP1f/Antdesign.png" title="Ant Design" alt="Ant Design" width="40" height="40"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" title="MUI" alt="MUI" width="40" height="40"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -202,4 +204,7 @@
 <p align="center">Made with ❤️ in Vietnam</p>
 <div align='center'><img width="50px" src="https://i.postimg.cc/zG7FM6kz/flag-for-flag-vietnam-svgrepo-com.png"/></div>
 
-
+### 🧿 View counter
+<div align='center'>
+  <img src="https://count.getloli.com/@Hieu-BuiMinh?theme=3d-num" alt=":Hieu-BuiMinh" />
+</div>
