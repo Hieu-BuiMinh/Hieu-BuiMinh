@@ -78,18 +78,6 @@
   </tr>
 </table>
 
-<!--
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-<img alt='tailwindcss' src='https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000&color=06B6D4'/>
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--->
-
 </div>
 
 #### UI Libraries:
@@ -105,14 +93,6 @@
   </tr>
 </table>
 
-
-<!--
-![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
-![Shadcn-UI](https://img.shields.io/badge/Shadcn-ui?style=for-the-badge&logo=shadcn%2Fui&labelColor=%23000000&color=%23ffffff)
-![Material Design](https://img.shields.io/badge/MUI-071b2f.svg?style=for-the-badge&logo=Material%20Design&logoColor=ffffff&labelColor=007fff)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1668dc.svg?style=for-the-badge&logo=Ant%20Design&logoColor=107eff&labelColor=141414)
--->
-
 </div>
 
 #### Others:
@@ -126,17 +106,58 @@
     <td><img src="https://i.ibb.co/BHBTWnHy/Postman.png" title="Postman" alt="Postman" width="40" height="40"/></td>
   </tr>
 </table>
-
-<!--
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
--->
-
 </div>
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/markdown.svg" title="Markdown" alt="Markdown" width="40" height="40" /></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/React.svg" title="React" alt="React" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/reactquery.svg" title="React Query" alt="React Query" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Next.js.svg" title="Next.js" alt="Next.js" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vite.js.svg" title="Vite.js" alt="Vite.js" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Tailwind%20CSS.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Ant%20Design.svg" title="Ant Design" alt="Ant Design" width="40" height="40" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Nest.js.svg" title="Nest.js" alt="Nest.js" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/prisma.svg" title="Prisma" alt="Prisma" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Visual%20Studio%20Code%20(VS%20Code).svg" title="VS Code" alt="VS Code" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vercel.svg" title="Vercel" alt="Vercel" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Figma.svg" title="Figma" alt="Figma" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/ESLint.svg" title="ESLint" alt="ESLint" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/zod.svg" title="Zod" alt="Zod" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Git.svg" title="Git" alt="Git" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/postman.svg" title="Postman" alt="Postman" width="40" height="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/notion.svg" title="Notion" alt="Notion" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/jest.svg" title="Jest" alt="Jest" width="40" height="40" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+  </tr>
+</table>
 ### 🎱 Get to know more about me
 
 - 🎓 Graduate of University of Economics Ho Chi Minh City
