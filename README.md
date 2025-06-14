@@ -57,77 +57,46 @@
 <img align="center" height="70" src="https://i.postimg.cc/GHFmW6ws/04.gif"/>
 <img align="center" height="70" src="https://i.postimg.cc/GB5LPCY6/05.gif"/>
 </div>
+<br>
 
-#### Libraries/Frameworks:
+#### ⵙ Programming Languages:
 
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://www.svgrepo.com/show/354259/react.svg" title="React" alt="React" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/6cHPrv8q/Nextjs.png" title="Next.js" alt="Next.js" width="40" height="40"/></td>
-    <td><img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Tailwind" alt="Tailwind" width="40" height="40" /></td>
-    <td><img src="https://i.ibb.co/DPcLBmxx/Tanstack.png" title="TanStack" alt="TanStack" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/VpMHGcXv/Zustand.png" title="Zustand" alt="Zustand" width="40" height="40"/></td>
-    <td><img src="https://www.svgrepo.com/show/452093/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" title="Nodejs" alt="Nodejs" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.svgrepo.com/show/349540/typescript.svg" title="TS" alt="TS" width="40" height="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/349419/javascript.svg" title="JS" alt="JS" width="40" height="40" /></td>
-  </tr>
-</table>
-
-</div>
-
-#### UI Libraries:
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://i.ibb.co/0jRPRP4c/Mantine.png" title="Mantine" alt="Mantine" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/R4BY9gCX/Shadcn.png" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" title="MUI" alt="MUI" width="40" height="40"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/></td>
-  </tr>
-</table>
-
-</div>
-
-#### Others:
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://i.ibb.co/HDJ58FPj/Vercel.png" title="Vercel" alt="Vercel" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/cdrz5fv/Vite.png" title="Vite" alt="Vite" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/TD8TkZR0/Figma.png" title="Figma" alt="Figma" width="40" height="40"/></td>
-    <td><img src="https://i.ibb.co/BHBTWnHy/Postman.png" title="Postman" alt="Postman" width="40" height="40"/></td>
-  </tr>
-</table>
-</div>
-
-<table>
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Java.svg" title="Java" alt="Java" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/markdown.svg" title="Markdown" alt="Markdown" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Sass.svg" title="Sass" alt="Sass" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40" /></td>
   </tr>
 </table>
 
-<table>
+#### ⵙ Front-end Frameworks & UI Libraries:
+
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/React.svg" title="React" alt="React" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/reactquery.svg" title="React Query" alt="React Query" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Next.js.svg" title="Next.js" alt="Next.js" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vite.js.svg" title="Vite.js" alt="Vite.js" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Tailwind%20CSS.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/tanstack.png" title="TanStack" alt="TanStack" width="40" height="40"/></td>
+    <td><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Zustand.png" title="Zustand" alt="Zustand" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vite.js.svg" title="Vite.js" alt="Vite.js" width="40" height="40" /></td>
+    <td><img src="https://i.ibb.co/0jRPRP4c/Mantine.png" title="Mantine" alt="Mantine" width="40" height="40"/></td>
+    <td><img src="https://i.ibb.co/R4BY9gCX/Shadcn.png" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/58f235d745f5c54b6fc75e8a208a7d5843509f11/assets/tecks/Material%20UI.svg" title="Ant Design" alt="Ant Design" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Ant%20Design.svg" title="Ant Design" alt="Ant Design" width="40" height="40" /></td>
   </tr>
 </table>
 
-<table>
+#### ⵙ Backend & Database:
+
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Nest.js.svg" title="Nest.js" alt="Nest.js" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40" /></td>
@@ -136,28 +105,27 @@
   </tr>
 </table>
 
-<table>
+#### ⵙ DevTools & Platforms:
+
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Visual%20Studio%20Code%20(VS%20Code).svg" title="VS Code" alt="VS Code" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vercel.svg" title="Vercel" alt="Vercel" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Figma.svg" title="Figma" alt="Figma" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Firebase.svg" title="Firebase" alt="Firebase" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/ESLint.svg" title="ESLint" alt="ESLint" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/zod.svg" title="Zod" alt="Zod" width="40" height="40" /></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Git.svg" title="Git" alt="Git" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/postman.svg" title="Postman" alt="Postman" width="40" height="40" /></td>
-  </tr>
-  <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/notion.svg" title="Notion" alt="Notion" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/jest.svg" title="Jest" alt="Jest" width="40" height="40" /></td>
   </tr>
 </table>
 
-<table>
-  <tr>
-  </tr>
-</table>
 ### 🎱 Get to know more about me
 
 - 🎓 Graduate of University of Economics Ho Chi Minh City
