@@ -2,7 +2,7 @@
 <!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
 <a href="https://hieu-buiminh.io.vn/" target="_blank" rel="me">
   <div align="center">
-    <img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548479/Frame_93_rzkp9n.png" />
+    <img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Frame_93_rzkp9n.png?raw=true" />
   </div>
 </a>
 
@@ -18,7 +18,7 @@
 <tr>
   <td width="35%">
     <img
-      src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747550223/Group_42_1_o5wvbw.png"
+      src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Group_42_1_o5wvbw.png?raw=true"
       width="100%"
       alt="cat"
       style="object-fit: cover; transform: rotate(45deg);"
@@ -66,10 +66,10 @@
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Java.svg" title="Java" alt="Java" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/markdown.svg" title="Markdown" alt="Markdown" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Sass.svg" title="Sass" alt="Sass" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/1a706595efbd370e4d876f42af52eec39a724d5b/assets/tecks/Sass.svg" title="Sass" alt="Sass" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/markdown.svg" title="Markdown" alt="Markdown" width="40" height="40" /></td>
   </tr>
 </table>
 
@@ -78,12 +78,12 @@
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/React.svg" title="React" alt="React" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/reactquery.svg" title="React Query" alt="React Query" width="40" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Next.js.svg" title="Next.js" alt="Next.js" width="40" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Tailwind%20CSS.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/reactquery.svg" title="React Query" alt="React Query" width="40" height="40" /></td>
     <td><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/tanstack.png" title="TanStack" alt="TanStack" width="40" height="40"/></td>
     <td><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Zustand.png" title="Zustand" alt="Zustand" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Tailwind%20CSS.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/redux.svg" title="Redux" alt="Redux" width="40" height="40" /></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/bc415d2b19c31dbceef405fa3c2b6aa36cebe0c2/assets/tecks/Vite.js.svg" title="Vite.js" alt="Vite.js" width="40" height="40" /></td>
@@ -182,11 +182,16 @@
 
 
 #### 🧿 View counter
+
 <div align='center'>
   <img src="https://count.getloli.com/@Hieu-BuiMinh?theme=3d-num" alt=":Hieu-BuiMinh" />
 </div>
 
-<div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548381/Frame_95_uxphsa.png"/></div>
+<br/>
+
+<div align='center'><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Frame_95_uxphsa.png?raw=true"/></div>
+
+<br/>
 
 <p align="center">Made with ❤️ in Vietnam</p>
 <div align='center'><img width="50px" src="https://i.postimg.cc/zG7FM6kz/flag-for-flag-vietnam-svgrepo-com.png"/></div>
