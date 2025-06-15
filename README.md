@@ -2,7 +2,7 @@
 <!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
 <a href="https://hieu-buiminh.io.vn/" target="_blank" rel="me">
   <div align="center">
-    <img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Frame_93_rzkp9n.png?raw=true" />
+    <img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/about/Banner.png?raw=true" />
   </div>
 </a>
 
@@ -18,7 +18,7 @@
 <tr>
   <td width="35%">
     <img
-      src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Group_42_1_o5wvbw.png?raw=true"
+      src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/about/About.png?raw=true"
       width="100%"
       alt="cat"
       style="object-fit: cover; transform: rotate(45deg);"
@@ -189,11 +189,15 @@
 
 <br/>
 
-<div align='center'><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/tecks/Frame_95_uxphsa.png?raw=true"/></div>
+<div align='center'><img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/about/Quote.png?raw=true"/></div>
 
 <br/>
+
+<div height="200" align="center">
+<video height="100" src="https://github.com/user-attachments/assets/70152b98-1c88-4c6b-8983-6ed56581239c"></video>
+</div>
 
 <p align="center">Made with ❤️ in Vietnam</p>
 <div align='center'><img width="50px" src="https://i.postimg.cc/zG7FM6kz/flag-for-flag-vietnam-svgrepo-com.png"/></div>
 
-<p align="right">Last updated: 18/05/2025</p>
+<p align="right">Last updated: 15/06/2025</p>
