@@ -220,7 +220,7 @@
 
 <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1747548381/Frame_95_uxphsa.png"/></div>
 
-<p align="right">Last updated: 18/05/2025</p>
+<p align="right">Last updated: 15/06/2025</p>
 
 <p align="center">Made with ❤️ in Vietnam</p>
 <div align='center'><img width="50px" src="https://i.postimg.cc/zG7FM6kz/flag-for-flag-vietnam-svgrepo-com.png"/></div>

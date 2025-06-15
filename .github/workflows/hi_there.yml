@@ -17,7 +17,7 @@ jobs:
 
       - name: Random commit 1-5 times
         run: |
-          FILE="commit_number.md"
+          FILE="hi_there.md"
           git config --global user.name "Hieu-BuiMinh"
           git config --global user.email "minhhieu2122000@gmail.com"
 
