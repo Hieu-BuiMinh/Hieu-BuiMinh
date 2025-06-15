@@ -194,7 +194,7 @@
 <br/>
 
 <div height="200" align="center">
-<video height="100" src="https://github.com/user-attachments/assets/70152b98-1c88-4c6b-8983-6ed56581239c"></video>
+<video height="100" loop src="https://github.com/user-attachments/assets/70152b98-1c88-4c6b-8983-6ed56581239c"></video>
 </div>
 
 <p align="center">Made with ❤️ in Vietnam</p>
