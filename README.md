@@ -2,7 +2,7 @@
 <!-- <div align='center'><img src="https://res.cloudinary.com/hieu-buiminh/image/upload/v1745836658/Frame_79_iq8kak.png"/></div> -->
 <a href="https://hieu-buiminh.io.vn/" target="_blank" rel="me">
   <div align="center">
-    <img src="https://github.com/Hieu-BuiMinh/Hieu-BuiMinh/blob/main/assets/about/Banner.png?raw=true" />
+    <img src="https://raw.githubusercontent.com/Hieu-BuiMinh/Hieu-BuiMinh/refs/heads/main/assets/about/Banner_02.png" />
   </div>
 </a>
 
